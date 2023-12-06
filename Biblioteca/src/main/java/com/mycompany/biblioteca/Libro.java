@@ -1,7 +1,4 @@
 package com.mycompany.biblioteca;
 public class Libro {
-    public String nombre;
-    public String tipo;
-    public String editorial;
-    public String año;
+    public String nombre, tipo, editorial, año;
 }

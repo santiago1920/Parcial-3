@@ -1,7 +1,6 @@
 package com.mycompany.biblioteca;
 public class Copia {
-    public String identificador;
-    public String estado;
+    public String identificador, estado;
     private Lector lector;
     
     public void devolver(){
